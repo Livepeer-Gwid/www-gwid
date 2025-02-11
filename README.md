@@ -3,6 +3,9 @@
 ## Content
 1. Overview
 2. Features
+3. How to deploy a gateway on GWID - step-by-step
+4. Managing Your Gateway
+5. Troubleshooting 
 
 ### Overview
 GWID is a simple UI launcher that enables single-button-click deployment and auto-scaling for the Livepeer stack, focusing on Gateway (Transcoding and AI) on any cloud provider.
