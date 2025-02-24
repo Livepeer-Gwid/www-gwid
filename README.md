@@ -20,11 +20,11 @@ GWID is a simple UI launcher that enables single-button-click deployment and aut
 
 
 ### How to deploy a gateway on GWID - step-by-step
-Step 1: Access the GWID Platform at [gwid.io](https://www.gwid.io/). Create an account on the platform by requesting access from our support team [here](gwidhq@gmail.com).
+##### Step 1: Access the GWID Platform at [gwid.io](https://www.gwid.io/). Create an account on the platform by requesting access from our support team [here](gwidhq@gmail.com).
 
-Step 2: Select Deployment Type. Choose Transcoding Gateway or AI Gateway depending on your use case.
+##### Step 2: Select Deployment Type. Choose Transcoding Gateway or AI Gateway depending on your use case.
 
-Step 3: Configure Gateway Settings.
+##### Step 3: Configure Gateway Settings.
 
 Select the desired Cloud Provider (AWS, GCP, or Azure).
 
@@ -35,11 +35,11 @@ Select a Transcoding profiles or profiles
 Enter a Gateway name, Arbitrum RPC endpoint and a passphrase/password
 
 
-Step 4: Generate an ETH account using the web interactive terminal shell.Enter a passphrase to unlock your ETH account.
+##### Step 4: Generate an ETH account using the web interactive terminal shell.Enter a passphrase to unlock your ETH account.
 
-Step 5: Fund your Gateway ETH address with Arbitrum ETHER using the funding web panel to deposit and allocate ETH fund.
+##### Step 5: Fund your Gateway ETH address with Arbitrum ETHER using the funding web panel to deposit and allocate ETH fund.
 
-Step 6: Testing & Verification. Use the provided Node Endpoint/IP to publish a test stream.
+##### Step 6: Testing & Verification. Use the provided Node Endpoint/IP to publish a test stream.
 
 
 ### Managing Your Gateway
